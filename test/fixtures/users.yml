@@ -9,3 +9,9 @@ mark:
   last_name: "Max"
   profile_name: "maxmark"
   email: "maxmark@yahoo.com"
+
+sam: 
+  first_name: "Sam"
+  last_name: "Mantha"
+  profile_name: "sammy"
+  email: "sammy@yahoo.com"
